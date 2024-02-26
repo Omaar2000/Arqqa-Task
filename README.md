@@ -36,7 +36,7 @@ cd <project_directory>
 
 3. **_Run_**
 
-Open the index.html file 
+Open the index.html file Or go to https://arqqa-digital.netlify.app/
 
 ## 🎥 screenshots<a name = "screenshots"></a>
 
