@@ -42,12 +42,12 @@ Open the index.html file
 
 - Desktop                
   
-  ![Desktop View](4.jpg)
+  ![Desktop View](imgs/4.jpg)
 
   <hr />
 
 - Mobile                           
-  ![Mobile View](5.jpg)
-  ![](6.jpg)
+  ![Mobile View](imgs/5.jpg)
+  
 
   <hr />
